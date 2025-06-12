@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/business-manager/static/css/main.0ece93d7.css",
+    "main.js": "/business-manager/static/js/main.c7a4fbb3.js",
+    "index.html": "/business-manager/index.html",
+    "main.0ece93d7.css.map": "/business-manager/static/css/main.0ece93d7.css.map",
+    "main.c7a4fbb3.js.map": "/business-manager/static/js/main.c7a4fbb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ece93d7.css",
+    "static/js/main.c7a4fbb3.js"
+  ]
+}
